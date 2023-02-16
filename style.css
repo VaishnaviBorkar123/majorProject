@@ -1,0 +1,23 @@
+.form-select{
+    width:600px;
+}
+
+#Othertxtarea{
+    width:600px;
+    resize: none;
+}
+
+.form-group{
+    width: 610px;
+}
+
+.alertcm{
+    width:600px;
+    margin: 10px;
+}
+
+.child-container{
+   
+    padding: 5px;
+    margin: 10px;
+}
